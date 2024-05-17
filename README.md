@@ -31,7 +31,7 @@ ___
 
 <img src="https://user-images.githubusercontent.com/113901667/220205024-6360162d-c51c-4b85-83c2-78083be904ed.gif ">
 
-
+<img src="https://github.com/chasmkhasan/ecommerceplatform/blob/67bb5c611808ac9af4ee4178150eba1ae114b815/WebPage%20Model.pdf">
 
 
 ## Using the App:
